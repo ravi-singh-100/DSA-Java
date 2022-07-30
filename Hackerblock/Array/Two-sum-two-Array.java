@@ -1,4 +1,4 @@
-Ques: 
+// Ques: Take as input N, the size of array. Take N more inputs and store that in an array. Take as input M, the size of second array and take M more inputs and store that in second array. Write a function that returns the sum of two arrays. Print the value returned.
 
 import java.util.*;
 public class Main {
